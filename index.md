@@ -1,3 +1,9 @@
+<nav style="background:#f2f2f2; padding:10px; border-radius:6px;">
+  <a href="index.md" style="margin-right:15px;">🏠 Sākums</a>
+  <a href="budzets_2026_2028.md" style="margin-right:15px;">📘 2026–2028</a>
+  <a href="budzets_2027_2029.md" style="margin-right:15px;">📘 2027–2029</a>
+</nav>
+
 # 📊 Valsts budžeta mācību materiāli
 
 Laipni lūgti mācību vietnē, kas palīdz izprast valsts budžeta plānošanas principus, fiskālo disciplīnu un daudzgadu budžeta pieeju.  
@@ -7,13 +13,8 @@ Laipni lūgti mācību vietnē, kas palīdz izprast valsts budžeta plānošanas
 
 ## 📘 Budžeta periodi
 
-Izvēlies interesējošo budžeta periodu:
-
-- **[Budžets 2026–2028](budzets_2026_2028.md)**  
-  Ienākumu/izdevumu struktūra, fiskālās prognozes, galvenie politikas virzieni.
-
-- **[Budžets 2027–2029](budzets_2027_2029.md)**  
-  Turpinājums daudzgadu plānošanai, izmaiņas un salīdzinājums ar iepriekšējo periodu.
+- **[Budžets 2026–2028](budzets_2026_2028.md)**
+- **[Budžets 2027–2029](budzets_2027_2029.md)**
 
 ---
 
@@ -23,19 +24,7 @@ Izvēlies interesējošo budžeta periodu:
 
 - katrs budžeta periods ir atsevišķā lapā,
 - saturu var paplašināt ar analīzēm, tabulām un grafikiem,
-- navigācija ir veidota tā, lai būtu viegli pievienot jaunus failus.
-
----
-
-## 🗂️ Nākotnes sadaļas (plāns)
-
-Šeit varēsi pievienot:
-
-- **Nodokļu analīzi**  
-- **Izdevumu struktūras skaidrojumu**  
-- **Fiskālās disciplīnas principus**  
-- **Grafikus un vizualizācijas**  
-- **Pielikumus un datu tabulas**
+- navigācija augšpusē ļauj ātri pāriet starp sadaļām.
 
 ---
 
