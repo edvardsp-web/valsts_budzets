@@ -1,21 +1,18 @@
-# 🏛️ Latvijas valsts budžeta ceļvedis
+# Valsts budžeta mācību materiāli
 
-Laipni lūdzam mājaslapā, kas skaidro Latvijas budžeta veidošanas principus un skaitļus.
-
-## ⚙️ Galvenais "Likumu likums"
-
-Budžeta veidošanas pamatā ir **[Likums par budžetu un finanšu vadību](https://likumi.lv)**.
-Tas nosaka, ka budžetu plāno trīs gadu ietvaram, uzliek par pienākumu revidēt izdevumus un nosaka precīzu kalendāro grafiku valdībai un Saeimai.
+Šī ir mācību vietne par valsts budžeta plānošanu un analīzi.  
+Tālāk pieejami budžeta periodu dokumenti, kuros apkopota informācija par ieņēmumiem, izdevumiem un fiskālajām tendencēm.
 
 ---
 
-## 📂 Detalizētas budžeta sadaļas
+## 📘 Budžeta periodi
 
-Lai uzzinātu vairāk par konkrētiem gadiem un prognozēm, spiediet uz saitēm zemāk:
-
-- 📊 **[Valsts budžeta prognozes 2027.-2029. gadam](./budzets_2027_2029.md)** – FM makroekonomiskie scenāriji, IKP un algu prognozes.
-- 📜 **[Oficiālais budžeta likums 2026.-2028. gadam](./budzets_2026_2028.md)** – Spēkā esošie skaitļi, deficīta mērķi un trīs galvenās valsts prioritātes.
+- [Budžets 2026–2028](budzets_2026_2028.md)
+- [Budžets 2027–2029](budzets_2027_2029.md)
 
 ---
 
-_Mājaslapa izveidota, izmantojot atvērtos datus un VS Code._
+## ℹ️ Par projektu
+
+Šī vietne ir veidota kā mācību materiāls budžeta veidošanas izpratnei.  
+Saturs tiks papildināts ar analīzēm, tabulām un vizualizācijām.
