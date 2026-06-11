@@ -1,3 +1,10 @@
+[🏠 Sākums](index.md) |
+[📘 Budžets 2026–2028](budzets_2026_2028.md) |
+[📘 Budžets 2027–2029](budzets_2027_2029.md)
+
+---
+
+
 <nav style="background:#f2f2f2; padding:10px; border-radius:6px;">
   <a href="index.md" style="margin-right:15px;">🏠 Sākums</a>
   <a href="budzets_2026_2028.md" style="margin-right:15px;">📘 2026–2028</a>
