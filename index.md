@@ -4,13 +4,6 @@
 
 ---
 
-
-<nav style="background:#f2f2f2; padding:10px; border-radius:6px;">
-  <a href="index.md" style="margin-right:15px;">🏠 Sākums</a>
-  <a href="budzets_2026_2028.md" style="margin-right:15px;">📘 2026–2028</a>
-  <a href="budzets_2027_2029.md" style="margin-right:15px;">📘 2027–2029</a>
-</nav>
-
 # 📊 Valsts budžeta mācību materiāli
 
 Laipni lūgti mācību vietnē, kas palīdz izprast valsts budžeta plānošanas principus, fiskālo disciplīnu un daudzgadu budžeta pieeju.  
@@ -30,8 +23,18 @@ Laipni lūgti mācību vietnē, kas palīdz izprast valsts budžeta plānošanas
 Šī vietne ir veidota kā vienkārša, skaidra dokumentācija:
 
 - katrs budžeta periods ir atsevišķā lapā,
-- saturu var paplašināt ar analīzēm, tabulām un grafikiem,
-- navigācija augšpusē ļauj ātri pāriet starp sadaļām.
+- navigācija augšpusē ļauj ātri pāriet starp sadaļām,
+- saturu var paplašināt ar analīzēm, tabulām un grafikiem.
+
+---
+
+## 🗂️ Nākotnes sadaļas
+
+- Nodokļu analīze  
+- Izdevumu struktūra  
+- Fiskālās disciplīnas principi  
+- Grafiki un vizualizācijas  
+- Pielikumi un datu tabulas  
 
 ---
 
@@ -39,5 +42,3 @@ Laipni lūgti mācību vietnē, kas palīdz izprast valsts budžeta plānošanas
 
 Šī vietne ir izveidota kā mācību materiāls, lai palīdzētu saprast valsts budžeta veidošanas procesu.  
 Saturs tiks pakāpeniski papildināts, balstoties uz mācību vajadzībām un analīzes dziļumu.
-
-
